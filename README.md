@@ -76,7 +76,9 @@ Combines security and automation into a single system for smart home application
 
 - **Servo-Based Door Lock**: Opens or closes based on the correct password entered via the keypad.  
 - **Temperature Monitoring**: Displays live temperature data on the LCD.  
-- **Remote Control**: Operated wirelessly via the RemoteXY app.  
+- **Remote Control**: Operated wirelessly via the RemoteXY app.
+  <img src="https://github.com/user-attachments/assets/0590e0ae-2f38-4b80-b86b-34a1062f01a4" alt="Door Control System" width="600px">
+
 
 ### 2. **LPG & Flame Detection System**  
 Focuses on detecting hazards to ensure home safety.  
