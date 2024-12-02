@@ -27,12 +27,12 @@ This repository contains Arduino-based projects designed to improve safety and a
 ## Features
 
 ### Door Control System  
-- [Door Control System Simulation](https://wokwi.com/projects/416190208386689025) 
 - **Password-Protected Door Lock**: Uses a servo motor to secure or unlock the door.  
 - **Temperature Monitoring**: Displays real-time temperature on an LCD screen.  
 - **Motion Detection**: Detects movement for additional security.  
 - **WiFi Control**: Operated remotely using the RemoteXY app.  
-
+- **[Door Control System Simulation Link](https://wokwi.com/projects/416190208386689025)**
+  
 ### LPG & Flame Detection System  
 - **LPG Leak Detection**: Triggers an alarm for high gas concentration.  
 - **Flame Detection**: Activates a water pump and buzzer when a flame is detected.  
