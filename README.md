@@ -27,6 +27,7 @@ This repository contains Arduino-based projects designed to improve safety and a
 ## Features
 
 ### Door Control System  
+- [Door Control System Simulation](https://wokwi.com/projects/291958456169005577) 
 - **Password-Protected Door Lock**: Uses a servo motor to secure or unlock the door.  
 - **Temperature Monitoring**: Displays real-time temperature on an LCD screen.  
 - **Motion Detection**: Detects movement for additional security.  
