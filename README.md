@@ -125,7 +125,7 @@ Focuses on detecting hazards to ensure home safety.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/PronoyKumarMondal/Iot-Smart_home-Prroject
+   git clone https://github.com/kawshik-ornob8/Iot-Smart_home-Prroject
    ```
 2. Open the respective project folder in the Arduino IDE:  
    - `door_control_system/door_control.ino`  
