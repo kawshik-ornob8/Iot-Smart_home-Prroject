@@ -32,6 +32,8 @@ This repository contains Arduino-based projects designed to improve safety and a
 - **Motion Detection**: Detects movement for additional security.  
 - **WiFi Control**: Operated remotely using the RemoteXY app.  
 - **[Door Control System Simulation Link](https://wokwi.com/projects/416190208386689025)**
+  ![image](https://github.com/user-attachments/assets/b44dc2ca-e726-4ceb-9737-aa8ced78e630)
+
   
 ### LPG & Flame Detection System  
 - **LPG Leak Detection**: Triggers an alarm for high gas concentration.  
