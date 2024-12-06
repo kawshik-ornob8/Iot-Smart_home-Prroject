@@ -1,4 +1,5 @@
 
+# Arduino Projects: Door Control System & LPG-Flame Detection
 
 Welcome to the repository for my Arduino projects! This repository contains two essential projects for home automation and safety: a **Door Control System with Temperature Monitoring** and an **LPG & Flame Detection System**.
 
